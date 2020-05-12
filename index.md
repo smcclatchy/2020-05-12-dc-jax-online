@@ -7,7 +7,7 @@ language: "en"
 latitude: "44.367283"     
 longitude: "-68.196357"    
 humandate: "Tuesdays & Thursdays, May 12-28, 2020"   
-humantime: "1:30 - 2:15 pm"    
+humantime: "1:30 - 2:30 pm"    
 startdate: 2020-05-12    
 enddate: 2020-05-28     
 instructor: ["Alison Kieffer", "Emaly Piecuch", "Sue McClatchy"]     
